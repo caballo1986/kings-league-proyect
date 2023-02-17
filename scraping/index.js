@@ -1,5 +1,7 @@
 import fetch from "node-fetch";
 import * as cheerio from "cheerio";
+import {writeFile} from 'node:fs/promises';
+import path  from "node:path";
 
 const URLS = {
   leaderboard :'https://www.kingsleague.pro/estadisticas/clasificacion/'
@@ -31,7 +33,7 @@ async function getLeaderBoard () {
         .trim()
     
     const leaderBoardSelectorEntries = Object.entries(LEADERBOARD_SELECTORS);
-
+    let leaderboard = [];
     $rows.each((_, el) => {
         const leaderBoardEntries = leaderBoardSelectorEntries.map(([key, {selector, typeOf }]) => {
             const rawValue = $(el).find(selector).text();
@@ -41,7 +43,10 @@ async function getLeaderBoard () {
                 : cleandValue;
             return [ key, value ];
         });
-        console.log(Object.fromEntries(leaderBoardEntries));
+        leaderboard.push(Object.fromEntries(leaderBoardEntries));
     });
+    return leaderboard;
 }
-await getLeaderBoard()
+const leaderboard = await getLeaderBoard();
+const filePath = path.join(process.cwd(),'db/leaderboard.json');
+await writeFile(filePath, JSON.stringify(leaderboard,null,2), 'utf8');
