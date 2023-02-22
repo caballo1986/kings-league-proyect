@@ -1,0 +1,45 @@
+[{
+  "slug": "1k",
+  "name": "1K",
+  "image": "/1k.svg",
+  "url": "",
+  "president": "Iker Casillas",
+  "chanel": "user",
+  "twitch": "",
+  "coach": "???",
+  "socialNetworks": [
+    "https://www.instagram.com/1kfutbolclub/?hl=es",
+    "https://twitter.com/1kfutbolclub",
+    "https://www.youtube.com/c/IkerCasillas",
+    "https://www.tiktok.com/@1kfutbolclub",
+    "https://www.twitch.tv/ikercasillas"
+],
+  "players": []
+},
+{
+  "slug": "aniquiladores",
+  "name": "aniquiladores",
+  "image": "/aniquiladores.svg",
+  "url": "",
+  "president": "???",
+  "chanel": "user",
+  "twitch": "",
+  "coach": "???",
+  "socialNetworks": [],
+  "players": []
+},
+{
+  "slug": "el-barrio",
+  "name": "El Barrio",
+  "image": "/el-bbarrio.svg",
+  "url": "",
+  "president": "???",
+  "chanel": "user",
+  "twitch": "",
+  "coach": "???",
+  "socialNetworks":[
+
+    ],
+  "players": []
+}
+]
