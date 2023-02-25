@@ -1,45 +1,185 @@
-[{
-  "slug": "1k",
-  "name": "1K",
-  "image": "/1k.svg",
-  "url": "",
-  "president": "Iker Casillas",
-  "chanel": "user",
-  "twitch": "",
-  "coach": "???",
-  "socialNetworks": [
-    "https://www.instagram.com/1kfutbolclub/?hl=es",
-    "https://twitter.com/1kfutbolclub",
-    "https://www.youtube.com/c/IkerCasillas",
-    "https://www.tiktok.com/@1kfutbolclub",
-    "https://www.twitch.tv/ikercasillas"
-],
-  "players": []
-},
-{
-  "slug": "aniquiladores",
-  "name": "aniquiladores",
-  "image": "/aniquiladores.svg",
-  "url": "",
-  "president": "???",
-  "chanel": "user",
-  "twitch": "",
-  "coach": "???",
-  "socialNetworks": [],
-  "players": []
-},
-{
-  "slug": "el-barrio",
-  "name": "El Barrio",
-  "image": "/el-bbarrio.svg",
-  "url": "",
-  "president": "???",
-  "chanel": "user",
-  "twitch": "",
-  "coach": "???",
-  "socialNetworks":[
-
+[
+  {
+    "slug": "1k",
+    "name": "1K",
+    "image": "/1k.svg",
+    "url": "",
+    "president": "Iker Casillas",
+    "chanel": "user",
+    "twitch": "",
+    "coach": "???",
+    "socialNetworks": [
+      "https://www.instagram.com/1kfutbolclub/?hl=es",
+      "https://twitter.com/1kfutbolclub",
+      "https://www.youtube.com/c/IkerCasillas",
+      "https://www.tiktok.com/@1kfutbolclub"
     ],
-  "players": []
-}
+    "players": []
+  },
+  {
+    "slug": "aniquiladores",
+    "name": "aniquiladores",
+    "image": "/aniquiladores.svg",
+    "url": "",
+    "president": "Juan",
+    "chanel": "user",
+    "twitch": "",
+    "coach": "???",
+    "socialNetworks": [
+      "https://www.twitch.tv/juansguarnizo",
+      "https://www.instagram.com/aniquiladoresteam/",
+      "https://twitter.com/AniquiladoresFC",
+      "https://www.tiktok.com/@aniquiladores"
+    ],
+    "players": []
+  },
+  {
+    "slug": "el-barrio",
+    "name": "El Barrio",
+    "image": "/el-bbarrio.svg",
+    "url": "",
+    "president": "Adri Contreras",
+    "chanel": "user",
+    "twitch": "",
+    "coach": "???",
+    "socialNetworks": [
+      "https://www.instagram.com/elbarrioklk/?hl=es",
+      "https://www.tiktok.com/@adricontreras4",
+      "https://twitter.com/elbarrioklk_",
+      "https://www.tiktok.com/@elbarrioklk"
+    ],
+    "players": []
+  },
+  {
+    "slug": "porcinos-fc",
+    "name": "Porcinos FC",
+    "image": "/porcinos-fc.svg",
+    "url": "",
+    "president": "Ibai Llanos",
+    "chanel": "user",
+    "twitch": "",
+    "coach": "???",
+    "socialNetworks": [
+      "https://www.twitch.tv/ibai",
+      "https://www.instagram.com/porcinos_fc",
+      "https://twitter.com/PorcinosFC",
+      "https://www.tiktok.com/@porcinospov"
+    ],
+    "players": []
+  },
+  {
+    "slug": "saiyans-fc",
+    "name": "Saiyans FC",
+    "image": "/saiyans-fc.svg",
+    "url": "",
+    "president": "TheGrefg",
+    "chanel": "user",
+    "twitch": "",
+    "coach": "???",
+    "socialNetworks": [
+      "https://www.twitch.tv/thegrefg",
+      "https://www.instagram.com/saiyans_fc/",
+      "https://twitter.com/Saiyans_FC_"
+    ],
+    "players": []
+  },
+  {
+    "slug": "ultimate-mostoles",
+    "name": "Ultimate Móstoles",
+    "image": "/ultimate-mostoles.svg",
+    "url": "",
+    "president": "DjMaRiio",
+    "chanel": "user",
+    "twitch": "",
+    "coach": "???",
+    "socialNetworks": [
+      "https://www.instagram.com/ultimatemostolescf/",
+      "https://twitter.com/UltMostoles",
+      "https://m.youtube.com/user/DjMaRiiO/videos"
+    ],
+    "players": []
+  },
+  {
+    "slug": "kunisports",
+    "name": "Kunisports",
+    "image": "/kunisports.svg",
+    "url": "",
+    "president": "Kun Agüero",
+    "chanel": "user",
+    "twitch": "",
+    "coach": "???",
+    "socialNetworks": [
+      "https://www.twitch.tv/slakun10",
+      "https://www.instagram.com/kunisports/",
+      "https://twitter.com/kunisport"
+    ],
+    "players": []
+  },
+  {
+    "slug": "rayo-barcelona",
+    "name": "Rayo de Barcelona",
+    "image": "/rayo-barcelona.svg",
+    "url": "",
+    "president": "Spursito",
+    "chanel": "user",
+    "twitch": "",
+    "coach": "???",
+    "socialNetworks": [
+      "https://www.twitch.tv/spursito",
+      "https://www.instagram.com/rayodebarcelona/?hl=es",
+      "https://twitter.com/RayodeBarcelona",
+      "https://www.youtube.com/@RayodeBarcelona",
+      "https://www.tiktok.com/@rayodebarcelona"
+    ],
+    "players": []
+  },
+  {
+    "slug": "xbuyer-team",
+    "name": "XBUYER TEAM",
+    "image": "/xbuyer-team.svg",
+    "url": "",
+    "president": "Hnos. Buyer",
+    "chanel": "user",
+    "twitch": "",
+    "coach": "???",
+    "socialNetworks": [
+      "https://www.instagram.com/xbuyerteam/?hl=es",
+      "https://twitter.com/XBuyer_Team",
+      "https://www.youtube.com/xbuyer"
+    ],
+    "players": []
+  },
+  {
+    "slug": "los-troncos-fc",
+    "name": "Los Troncos FC",
+    "image": "/los-troncos-fc.svg",
+    "url": "",
+    "president": "Perxitaa",
+    "chanel": "user",
+    "twitch": "",
+    "coach": "???",
+    "socialNetworks": [
+      "https://www.twitch.tv/perxitaa",
+      "https://www.instagram.com/troncosfc.oficial/",
+      "https://twitter.com/lostroncosfc_/",
+      "https://www.tiktok.com/@lostroncosfc_"
+    ],
+    "players": []
+  },
+  {
+    "slug": "pio-fc",
+    "name": "PIO FC",
+    "image": "/pio-fc.svg",
+    "url": "",
+    "president": "Rivers",
+    "chanel": "user",
+    "twitch": "",
+    "coach": "???",
+    "socialNetworks": [
+      "https://www.twitch.tv/rivers_gg",
+      "https://www.instagram.com/piofutbolclub/?hl=es",
+      "https://twitter.com/PIO_FC"
+    ],
+    "players": []
+  }
 ]
